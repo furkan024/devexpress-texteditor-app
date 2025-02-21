@@ -30,6 +30,8 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/devextreme-dist/css/dx.light.css",
+              "node_modules/devexpress-richedit/dist/dx.richedit.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -100,5 +102,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "971b0649-b37e-4bd4-900d-0e783fb1fc09"
   }
 }
